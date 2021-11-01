@@ -1,9 +1,13 @@
-# auther AdhamAlomari
+# Auther
+>  AdhamAlomari
 
 
 
-## this site is deploy in netlify =>  
+## This app is deploy in Netlify =>  
 [netlify](testemptyreact.netlify.app)
+
+
+
 # Getting Started with Create React App
 
 
